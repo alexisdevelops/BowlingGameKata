@@ -15,6 +15,7 @@
 		5E0344222568590B002A39C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E0344202568590B002A39C4 /* LaunchScreen.storyboard */; };
 		5E03442D2568590B002A39C4 /* BowlingGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E03442C2568590B002A39C4 /* BowlingGameTests.swift */; };
 		5E0344382568590B002A39C4 /* BowlingGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0344372568590B002A39C4 /* BowlingGameUITests.swift */; };
+		5E03444925685950002A39C4 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E03444825685950002A39C4 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5E0344332568590B002A39C4 /* BowlingGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BowlingGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E0344372568590B002A39C4 /* BowlingGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BowlingGameUITests.swift; sourceTree = "<group>"; };
 		5E0344392568590B002A39C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E03444825685950002A39C4 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5E03441E2568590B002A39C4 /* Assets.xcassets */,
 				5E0344202568590B002A39C4 /* LaunchScreen.storyboard */,
 				5E0344232568590B002A39C4 /* Info.plist */,
+				5E03444825685950002A39C4 /* Game.swift */,
 			);
 			path = BowlingGame;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				5E03441A25685908002A39C4 /* ViewController.swift in Sources */,
 				5E03441625685908002A39C4 /* AppDelegate.swift in Sources */,
 				5E03441825685908002A39C4 /* SceneDelegate.swift in Sources */,
+				5E03444925685950002A39C4 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
